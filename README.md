@@ -8,3 +8,4 @@ I Rewrite the script with Python. Before You run the script, please make sure yo
 
 When the script finished, it will generate a file, please check whether it's what you want
 
+more detail :[n_gram](https://linpiner.com/posts/N-Grams%E6%A8%A1%E5%9E%8B%E5%88%86%E6%9E%90Keyword%E6%95%B0%E6%8D%AE)
